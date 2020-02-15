@@ -135,10 +135,10 @@ def nf(d, t, env):
 
 def exec_prog(n):
     prg1 = bin(i)[2:]
-		prg1 = "0"*(l-len(prg1)) + prg1
+    prg1 = "0"*(l-len(prg1)) + prg1
     try:
       p1 = parse(prg1)[0]
-			x = nf(0, p1, [])
+      x = nf(0, p1, [])
       return [prg1, str(x)]
     except:
       return None
