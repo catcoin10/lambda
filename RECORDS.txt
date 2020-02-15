@@ -1,0 +1,7 @@
+Record results for n >= 28
+
+Lambda(28) = 32
+Best input:  0101001001101100001011011101 
+Best output: \\0(\\\\\\\\0(\\2)(\\2))(\\\\\\\\0(\\2)(\\2))
+
+Note: 24 marks the first time the output length exceeds the input length.
