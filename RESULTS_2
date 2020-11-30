@@ -7,6 +7,7 @@ Mu(23) = 35
 Mu(24) = 35
 Mu(25) = 38
 Mu(26) = 47
+Mu(27) = 81
 
 
 20 -- 00010101011010101101
@@ -15,5 +16,6 @@ Mu(26) = 47
 23 -- 01000110100001011101010
 25 -- 0100011010000001011101010
 26 -- 01000110100001010111010101
+27 -- 010001100110100001011101010
 
 What tells me that mu is one of the fastest growing functions is that mu grows slow at first like many other very fast functions. It is significantly more powerful than Rado's sigma function.
