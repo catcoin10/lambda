@@ -1,4 +1,4 @@
-These are the results of Lambda 2, which will be referred to mu. This is the function that theoretically overtakes the busy beaver function. We will start at Mu(11) because that is when the output starts exceeding the input. The winning string will be written below. If two strings are tied, the 1st will be used.
+These are the results of Lambda 2, which will be referred to mu. This is the function that theoretically overtakes the busy beaver function. We will start at Mu(20) because that is when the output starts exceeding the input. The winning string will be written below. If two strings are tied, the 1st will be used.
 
 Mu(20) = 21
 Mu(21) = 22
@@ -8,8 +8,7 @@ Mu(24) = 35
 Mu(25) = 38
 Mu(26) = 47
 Mu(27) = 81
-Mu(29) >=88
-
+... (resuming at 34 eventually)
 
 20 -- 00010101011010101101
 21 -- 000101010110101101101
@@ -18,6 +17,5 @@ Mu(29) >=88
 25 -- 0100011010000001011101010
 26 -- 01000110100001010111010101
 27 -- 010001100110100001011101010
-29 -- 01000110011010000001011101010
 
-What tells me that mu is one of the fastest growing functions is that mu grows slow at first like many other very fast functions. It is significantly more powerful than Rado's sigma function.
+What tells me that mu is one of the fastest growing functions is that mu grows slow at first like many other very fast functions. It is significantly more powerful than Rado's sigma function. It is the    equivalent of Goucher's xi function. 
