@@ -9,7 +9,9 @@ Mu(25) = 38
 Mu(26) = 47
 Mu(27) = 81
 Mu(28) = 81
+Mu(29) >= 88
 
 What tells me that mu is one of the fastest growing functions is that mu grows slow at first like many other very fast functions. It is significantly more powerful than Rado's sigma function. It is the    equivalent of Goucher's xi function. 
 
 28 -- 0100011100110100001011101010
+29 -- 01000110011010000001011101010?
